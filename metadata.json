@@ -1,0 +1,6 @@
+{
+  "name": "LUMORA",
+  "description": "Professional photo editor with Lightroom-inspired real-time editing, presets, curves, HSL, color grading, and high-res export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
